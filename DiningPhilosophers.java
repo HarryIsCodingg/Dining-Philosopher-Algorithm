@@ -2,7 +2,7 @@
  * Class DiningPhilosophers
  * The main starter.
  *
- * @author Serguei A. Mokhov, mokhov@cs.concordia.ca
+ * @author Harinder Partap Singh
  */
 public class DiningPhilosophers {
 
