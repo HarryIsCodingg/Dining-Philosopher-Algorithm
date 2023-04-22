@@ -4,7 +4,7 @@ import common.BaseThread;
  * Class Philosopher.
  * Outlines main subrutines of our virtual philosopher.
  *
- * @author Serguei A. Mokhov, mokhov@cs.concordia.ca
+ * @author Harinder Partap Singh
  */
 public class Philosopher extends BaseThread {
 
